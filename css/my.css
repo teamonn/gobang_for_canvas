@@ -1,0 +1,11 @@
+/* reset default style */
+html, body{
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+#board_box{
+	margin-top: 30px;
+	cursor: pointer;
+}
