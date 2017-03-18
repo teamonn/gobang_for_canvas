@@ -144,7 +144,7 @@ function play(event){
 					isEnd = true;
 					setTimeout(function(){
 						readyToStart(boardContext, winer + "获胜了！" + "\n \n 您想再来一局吗？");
-					}, 5000)
+					}, 3500)
 				};
 			} else{
 				console.log('此位置已放置了棋子');
